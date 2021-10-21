@@ -1,0 +1,21 @@
+{
+  "name": "my-vite-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mock": "^0.1.1",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "sass": "^1.43.2",
+    "typescript": "4.1.5",
+    "vite": "^2.6.4",
+    "vite-plugin-mock": "^2.9.6"
+  }
+}
