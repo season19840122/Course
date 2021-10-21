@@ -8,9 +8,9 @@ import logo from '@/assets/logo.png'
 import classes from '@/App.module.css'
 
 // Online JSON
-fetch('/api/users')
-  .then(res => res.json())
-  .then(users => console.log(users))
+// fetch('/api/users')
+//   .then(res => res.json())
+//   .then(users => console.log(users))
 
 // Mock Data
 fetch('/api-dev/users')

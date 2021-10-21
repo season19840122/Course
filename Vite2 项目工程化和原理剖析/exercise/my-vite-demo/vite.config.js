@@ -22,6 +22,9 @@ export default defineConfig({
   },
   plugins: [
     vue(),
-    viteMockServer({}),
+    viteMockServer({
+      mockPath: 'mock',
+      localEnabled: command === 'serve',
+    }),
   ],
 });
