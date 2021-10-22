@@ -10,7 +10,7 @@ export default function (options) {
     },
     load(id) {
       // 返回加载模块代码
-      return 'export default "this is virtaul!"';
+      return 'export default "this is virtual!"';
     },
   };
 }

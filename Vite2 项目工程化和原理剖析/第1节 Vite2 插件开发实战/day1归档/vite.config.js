@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import { resolve } from "path";
 import { viteMockServe } from "vite-plugin-mock";
-import virtaulModule from "./plugins/vite-plugin-example";
+import virtualModule from "./plugins/vite-plugin-example";
 import i18n from "./plugins/vite-plugin-i18n";
 
 // https://vitejs.dev/config/

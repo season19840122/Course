@@ -3,7 +3,7 @@ import App from "./App.vue";
 
 // import vm from "virtual-module";
 
-// console.log(vm);
+// console.log(vm);`
 
 // 全局样式
 import "./index.css";
